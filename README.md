@@ -16,4 +16,4 @@ This is a simple Python program that reads a line of text entered by the user an
 | **Extra Spaces** | `  Hello   world  ` | Word count: 2, Character count: 18 |
 
 ## Limitation
-The word count calculation splits strings by whitespace (`str.split()`). As a result, punctuation marks attached to words (e.g., `"hello,"`) are counted as part of the word rather than being stripped or isolated.
+The word count calculation splits strings by whitespace (`str.split()`). As a result, punctuation marks attached to words (e.g., `"hello,"`) are counted as part of the word rather than being stripped or isolated."# CSC649" 
